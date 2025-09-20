@@ -3,6 +3,6 @@ Supported : freebsd, linux, windows. MACOS will be done later.
 
 building,
 1. install "musl-libc" for statically linking. Use glibc if you want too.
-2. gcc -o nexus main.c
+2. gcc -o nexus main.c for glibc, musl-gcc for musllibc.
 3. place busybox binary (windows, linux, feebsd) where the nexuspkgs is.
 
