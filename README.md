@@ -6,3 +6,4 @@ building,
 2. gcc -o nexus main.c for glibc, musl-gcc for musllibc.
 3. place busybox binary (windows, linux, feebsd) where the nexuspkgs is.
 
+NOTE : I will use V for this now. As C is too unsafe.
